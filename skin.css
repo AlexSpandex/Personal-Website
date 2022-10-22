@@ -1,0 +1,17 @@
+h1 {
+    color: white;
+    text-indent: 30px;
+    text-transform: uppercase;
+}
+
+body {
+    background-color: black;
+    font-family: 'Montserrat';font-size: 22px;
+}
+
+.container {
+    display: grid;
+    color: white;
+    text-indent: 30px;
+    
+}
