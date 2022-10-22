@@ -9,7 +9,7 @@ body {
     font-family: 'Montserrat';font-size: 22px;
 }
 
-.container {
+.header{
     display: grid;
     color: white;
     text-indent: 30px;
