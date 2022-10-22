@@ -13,5 +13,7 @@ body {
     display: grid;
     color: white;
     text-indent: 30px;
-    
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr; 
+    gap: 15px 10px;
 }
