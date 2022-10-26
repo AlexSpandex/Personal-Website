@@ -1,4 +1,4 @@
-.namcard{
+.namecard{
     display: grid;
     background-color: black;
     color: white;
@@ -12,6 +12,7 @@
 
 body {
     font-family: 'Montserrat';font-size: 22px;
+    
 }
 
 .header{
