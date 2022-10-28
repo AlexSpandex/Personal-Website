@@ -1,5 +1,7 @@
 .namecard{
     display: grid;
+    
+    grid-template-columns: 1fr 1fr;
     background-color: black;
     color: white;
     text-indent: 30px;
