@@ -97,6 +97,10 @@ body {
 .discord { grid-area: 2 / 2 / 3 / 3; }
 .github { grid-area: 2 / 3 / 3 / 4; }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* unvisited link */
 a:link {
     color: white;
