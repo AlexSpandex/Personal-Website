@@ -72,7 +72,9 @@ body {
     border:20px;
     border-radius: 500px;
 }
-.drumkit-image { grid-area: 2 / 1 / 3 / 2; }
+.drumkit-image { 
+    grid-area: 2 / 1 / 3 / 2; 
+}
 .drumkit-explanation { grid-area: 2 / 2 / 3 / 3; }
 
 .parent {
